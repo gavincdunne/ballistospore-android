@@ -16,3 +16,9 @@ C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
 o
 ?app/src/main/java/com/weekendware/ballistospore/di/AppModule.kt,a\b\ab81d14fa3663038b7c4c10e62bf3f9aefda9d4c
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+q
+Aapp/src/main/java/com/weekendware/ballistospore/ui/theme/Color.kt,0\7\07fa008ce2bddea48f7eecfcc0281952a464dbd0
+q
+Aapp/src/main/java/com/weekendware/ballistospore/ui/theme/Theme.kt,c\6\c68ebceb872bd0438ec1521d8b69d4ece8724253
