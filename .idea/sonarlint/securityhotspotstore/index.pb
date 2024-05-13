@@ -22,3 +22,5 @@ q
 Aapp/src/main/java/com/weekendware/ballistospore/ui/theme/Color.kt,0\7\07fa008ce2bddea48f7eecfcc0281952a464dbd0
 q
 Aapp/src/main/java/com/weekendware/ballistospore/ui/theme/Theme.kt,c\6\c68ebceb872bd0438ec1521d8b69d4ece8724253
+{
+Kapp/src/main/java/com/weekendware/ballistospore/feature/di/FeatureModule.kt,3\9\39783750bce9d3e385ed996c5269e372c3a0ef48
